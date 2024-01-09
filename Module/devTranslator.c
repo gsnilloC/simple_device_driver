@@ -1,19 +1,3 @@
-/**************************************************************
- * Class:  CSC-415-01 Fall 2023
- * Name: Collins Gichohi
- * Student ID: 922440815
- * GitHub UserID: gsnilloC
- * Project: Assignment 6 – Device Driver
- *
- * File: devTranslator.c
- * This Linux kernel module, "devTranslator.c," 
- * functions as a character device driver with translation 
- * capabilities, including Pig Latin and Caesar Cipher 
- * encryption/decryption. The module uses a structure named 
- * myds to store translation data and implements key functions 
- * such as myWrite for translation on write operations and 
- * myRead for reading the translated text. 
- **************************************************************/
 #include <linux/module.h>
 #include <linux/kernel.h>
 #include <linux/fs.h>

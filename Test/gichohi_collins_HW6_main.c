@@ -1,14 +1,4 @@
-/**************************************************************
- * Class:  CSC-415-01 Fall 2023
- * Name: Collins Gichohi
- * Student ID: 922440815
- * GitHub UserID: gsnilloC
- * Project: Assignment 6 – Device Driver
- *
- * File: gichohi_collins_HW6_main.c
- * Test program for device driver.
- *
- **************************************************************/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
